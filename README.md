@@ -3,7 +3,7 @@ In this tutorial i tried to import a real map to a Sumo scenario.
 The map imported here was the region around the LAAS-CNRS lab.
 To understand the process of importing real maps to SUMO sumulator we will go through the process step by step.
 
-![Schenario](https://github.com/xobx-cherif/Sumo-hello-world/blob/master/Capture%20d%E2%80%99%C3%A9cran_2018-02-06_14-22-52.png)
+![Schenario](https://github.com/xobx-cherif/Sumo-OpenStreetMap/blob/master/SUMO-OSM.png)
 
 # Overview
 
