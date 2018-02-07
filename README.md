@@ -21,7 +21,7 @@ This steps consists of importing our OSM map that will be in xml format :
 1. go to [OpenStreetMAP!](https://www.openstreetmap.org/) website.
 2. slect the region you want to export and click export button to save your .*osm map file
 
-![Schenario](https://github.com/xobx-cherif/Sumo-OpenStreetMap/blob/master/SUMO-OSM.png)
+![Schenario](https://github.com/xobx-cherif/Sumo-OpenStreetMap/blob/master/OSM.png)
 
 3. Use the netconvert tool to convert the osm map to a SUMO network file using the following command
 
@@ -71,4 +71,4 @@ sumo-gui config_file_name.sumocfg
 And here are the cars mooving :D .
 
 
-![Schenario](https://github.com/xobx-cherif/Sumo-OpenStreetMap/blob/master/SUMO-OSM.png)
+![Schenario](https://github.com/xobx-cherif/Sumo-OpenStreetMap/blob/master/cars.png)
