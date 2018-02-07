@@ -1,0 +1,12 @@
+<configuration>
+	<input>
+		 <net-file value="street.net.xml"/> 
+		 <route-files value="street.rou.xml"/> 		
+		 <additional-files value="street.poly.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="1000"/>
+		<step-length value="0.1"/> 
+	</time>
+</configuration>
